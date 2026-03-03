@@ -1,7 +1,7 @@
 # Java-Programs
 A structured collection of Java programs demonstrating core concepts such as OOP principles, conditionals, loops, user input handling, and basic problem-solving techniques.
 
-#Overview
+**Overview**
 
 This repository contains structured Java programs covering fundamental to intermediate-level concepts. The programs are written for strong conceptual understanding and consistent coding practice.
 
@@ -9,8 +9,8 @@ It includes problem-solving programs, array and string manipulation, user-define
 
 This repository reflects continuous learning and hands-on practice in Java.
 
-#Topics Covered
-#1. Basic Programs
+**Topics Covered
+1. Basic Programs**
 
 Addition of two numbers
 
@@ -32,7 +32,7 @@ Fibonacci series
 
 Factorial calculation
 
-#2. Arrays
+**2. Arrays**
 
 Sum of array elements
 
@@ -42,8 +42,8 @@ Reverse an array
 
 Sorting an array
 
-#3. Strings
-
+**3. Strings
+**
 String length calculation
 
 Reverse a string
@@ -56,7 +56,7 @@ Uppercase and lowercase conversion
 
 Character counting
 
-#4. Methods
+**4. Methods**
 
 User-defined methods
 
@@ -64,7 +64,7 @@ Method overloading
 
 Recursive methods
 
-#5. Object-Oriented Programming
+**5. Object-Oriented Programming**
 
 Class and object creation
 
@@ -76,17 +76,17 @@ Method overriding
 
 Polymorphism concepts
 
-#6. Exception Handling
+**6. Exception Handling**
 
 Try-catch blocks
 
 Handling arithmetic exceptions
 
-#7. File Handling
+**7. File Handling**
 
 Writing data to a file using FileWriter
 
-#Technologies Used
+**Technologies Used**
 
 Java (Core Java)
 
@@ -106,7 +106,7 @@ java ClassName
 
 Make sure the file name matches the public class name.
 
-#Purpose of This Repository
+**Purpose of This Repository**
 
 Strengthen Java fundamentals
 
@@ -118,7 +118,7 @@ Prepare for Data Structures and competitive coding
 
 Maintain structured GitHub learning documentation
 
-#Future Improvements
+**Future Improvements**
 
 Add advanced OOP programs
 
