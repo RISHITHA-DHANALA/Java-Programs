@@ -8,8 +8,8 @@ This repository contains structured Java programs covering fundamental to interm
 It includes problem-solving programs, array and string manipulation, user-defined methods, recursion, object-oriented programming concepts, exception handling, and basic file handling.
 
 This repository reflects continuous learning and hands-on practice in Java.
-
-**Topics Covered
+**
+Topics Covered
 1. Basic Programs**
 
 Addition of two numbers
