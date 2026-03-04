@@ -93,7 +93,7 @@ JDK 8 or above
 
 Command Line / Any Java IDE
 
-#How to Run the Programs
+**How to Run the Programs**
 
 Compile the program:
 
