@@ -42,8 +42,7 @@ Reverse an array
 
 Sorting an array
 
-**3. Strings
-**
+**3. Strings**
 String length calculation
 
 Reverse a string
